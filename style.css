@@ -321,7 +321,7 @@ footer {
     font-size: 16px;
 }
 /* Responsive para el movil */
-@media (max-width: 768px) {
+@media (max-width: 720px) {
     .contenedor {
         padding: 0 20px;
     }
